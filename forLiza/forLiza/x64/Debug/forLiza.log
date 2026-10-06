@@ -1,0 +1,11 @@
+﻿  main.cpp
+  methods.cpp
+C:\Users\GHOST\Desktop\code\forLiza\methods.cpp(137,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\GHOST\Desktop\code\forLiza\methods.cpp(168,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\GHOST\Desktop\code\forLiza\methods.cpp(186,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\GHOST\Desktop\code\forLiza\methods.cpp(204,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\GHOST\Desktop\code\forLiza\methods.cpp(222,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\GHOST\Desktop\code\forLiza\methods.cpp(240,41): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\GHOST\Desktop\code\forLiza\methods.cpp(258,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  forLiza.vcxproj -> C:\Users\GHOST\Desktop\code\forLiza\x64\Debug\forLiza.exe
